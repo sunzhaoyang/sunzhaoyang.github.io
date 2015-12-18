@@ -8,12 +8,12 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Sun Blog
-tagline: sunzhaoyang blog
+title : Jekyll Bootstrap
+tagline: Site Tagline
 author :
-  name : sun
-  email : sunzy2@gmail.com
-  github : sunzhaoyang
+  name : Name Lastname
+  email : blah@email.test
+  github : username
   twitter : username
   feedburner : feedname
 
