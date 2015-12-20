@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "debug_uwsgi_limit_as"
+title: "Django+uwsgi的一次bug排查"
 description: ""
 category: ["python"]
 tags: []
