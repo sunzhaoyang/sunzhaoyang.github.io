@@ -1,9 +1,11 @@
 ---
+
 layout: post
 title: "Django+uwsgi的一次bug排查"
 description: ""
 category: ["python"]
 tags: []
+
 ---
 ##环境
 
