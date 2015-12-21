@@ -27,7 +27,8 @@ tags: ["threading"]
 ###threading.Thread
 直接上代码：
 
-```python
+
+```
 import threading
 import httplib2
 import time
@@ -56,7 +57,8 @@ p.start()
 
 这是用类继承的方式，还有更简单的修饰符：
 
-```python
+
+```
 import threading
 import time
 
@@ -79,7 +81,7 @@ task("task2")
 ###multiprocessing
 代码如下：
 
-```python
+```
 from multiprocessing import Pool
 from time import sleep
 
@@ -105,7 +107,7 @@ pool.join()
 ###threadpool
 最精简代码：
 
-```python
+```
 import threadpool
 from time import sleep
 
